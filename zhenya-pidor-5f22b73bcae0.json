@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zhenya-pidor",
+  "private_key_id": "5f22b73bcae09b356e03476391dab65990585d57",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCdYaZ4+lMqtEJY\niRBv9NtjJzPImadQSOH9Pos8w7xsLbPwmqITIxRyRAWWFDE58ajFTlVv/+0tm3O/\n/n8MqXCTDH7reKDu8icDJUZa9m+w0TM4Xsd2lBcQi94N4g18Hxz1W390L7hSg+nj\nsZLYYUDyv2VmdfR6yiHpbNmBV+PSr41GQg8kj8PJV+neZJ+q+ivFsu1UZdF5soh0\nDOiSyInsxqen29HGteeFpkUgPfXnY4LfkpU4CTRrTwwva6zQ+ydYz+wuM4qKs9TH\nk1lpe2WpOEgjX26w/DiNx+DDdD+iE7FwxiTT7J5/divrJiYQdlrf/wGzTiwymfWt\n6otypgMpAgMBAAECggEAHbGH5DluqZb7EZNCu6zaG7oQxh9fdwFZShubz6oqicqR\nsaqrO6sZt3loCGnk48bZjeh6rDgAOuOiki3lMLFjYQsxgyHuU0by32AQByeJ6TV/\nUXpobdIBDAknqzzkSG/iWdSaloROZZsn7OLbDuJCi8paylsk9mnevhjgbMv1WxGi\naG7LWTjhKvjsBbDKQeB11Gg6gDQ7Mg/1b/rfW8UTVdGEp89zuClxCZCpiBU0vkWh\ncv3HrZpwQpabSujOrt/VIPUrtX8NZ385zWCFhOPLNpW81TIHmN9VoQF1HrrmtOlT\nb6KUMwRWEQELd163zpGsT+QHcU2Igxe6/04sJ/7G9QKBgQDRrMQ5eD0Dw1+IZLd2\nnYml/c2ZpS7r2o89u+4CxNCQzDsx0IZwHqTIk6fsbY0RZ/Zbd2JRaIBZMRV/qvUt\n3b1xs4/fHp36a5plBMxNkfqxHZeNvciNdYnXQDoAvl9Co3Jv2LpZYAKeKimgXJBp\nDYhxblrmquML6WsUOmQakEUYgwKBgQDAJyl+I1KjdJZz7iNWa8VfO8XMFm1sBfgt\nN8XNlrjzAEVZHlLtbztvVlRTlumFQFWz2Oo187jZofkpxXML/Vq8ZjOYJ5BeUWVk\nUepeZjTIdFZaJa4iXiW+5ZmCBYl6dluvWDIkJ8ad++tU/pEeJZPFWIqM6qBhLb7v\nN+p97JDt4wKBgQDFEPgse5H9I3d6ng7A8TgaRv0iV1pOWlEe2K7O82SDczB/lVmF\nr4d47S56zEw1+9xUA1To5qsbKULnhyqBPVN8tiOWtRQN9WxbXbMXhQh1xzZWBfWk\n3r/7C2Z4pHSsESrRbIVY0yAiv8X37ofb9Ng0pF/TRPG4lF4L2QWU4dvPOQKBgQC6\npxACLHPAvabMVD3VW/isqpZXyk1eSmoqGmw1abycp921VOR/KbaVT0m4rPaH7teR\nTRstb2NXXKR5NAiuU9vI+IoTuhLd27le+sdsDWImegPLq6B8V/HYfpVgHNrPr5se\nN9D1GAIyQpz1whbbLutdHsXvXpaN727yVuGckqixuwKBgE2lsFRSpaEhtAAsUg3V\nizil1VCC2RAKo2iSZGGoHjSZpKs2ZfMS8FJlqcOgoDhOO0akE1fsSbIdq8d1lDeJ\nTeN2B5IFAIdLT2Ez38RRXJ7Lm+KSaEbCcI7zJv2vzCUp5sGadzZOan2RboC2NZYk\nRRA5OYSYrgLZdqFPci9Ytakf\n-----END PRIVATE KEY-----\n",
+  "client_email": "zhenya-pidoras@zhenya-pidor.iam.gserviceaccount.com",
+  "client_id": "117867070433006728674",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zhenya-pidoras%40zhenya-pidor.iam.gserviceaccount.com"
+}

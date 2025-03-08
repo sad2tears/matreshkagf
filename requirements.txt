@@ -1,0 +1,9 @@
+vk-api
+Flask
+vktools
+pymongo
+aiofiles
+config
+dnspython
+requests
+pytz
